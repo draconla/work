@@ -1,0 +1,37 @@
+.container{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient( to right,purple,red,blue );
+    text-align: center;
+    height: 100vh;
+    
+    }
+    
+    .main{
+        background-color: rgb(220, 216, 211);
+        width: 27em;
+        height: 20em;
+        position: relative;
+        left: 26em;
+        top: 10em;
+       padding: 10px;
+       color: rgb(86, 81, 81);
+       font-family: 'Courier New', Courier, monospace;
+       font-size: large;
+       font-weight: 550;
+    }
+    #image{
+        width:130px;
+        height: 140px;
+        border-radius: 50px;
+    }
+    #name{
+        font-family:  'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+        font-weight: 900;
+        font-size: 20px;
+    }
+    a{
+        color: goldenrod;
+    }
+    
